@@ -1,0 +1,47 @@
+body {
+    background-color: #b91450;
+}
+
+/* COMMON */
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.first-section {
+    background-color: white;
+    width: 100%;
+}
+
+.first-top {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.user-data {
+    text-align: center;
+    
+    /* test */
+    height: 75px;
+    width: 20%;
+}
+
+.first-bottom {
+    text-align: center;
+    
+}
+
+.first-bottom button {
+    margin: 0 1rem;
+}
+
+/* Second Section */
+.second-section {
+    background-color: white;
+    display: none;    
+}
+
+.active {
+    display: block;
+}
